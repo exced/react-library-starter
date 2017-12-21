@@ -1,6 +1,6 @@
 import React from 'react'
 import { storiesOf } from '@storybook/react'
-import Default from './src/Default'
+import App from '../lib'
 
-storiesOf('File Manager', module)
-  .add('Default', () => <Default />)
+storiesOf('Library Starter', module)
+  .add('Default', () => <App />)
