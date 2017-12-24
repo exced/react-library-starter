@@ -13,6 +13,7 @@ What's in :
 - Ant Design
 - Styled Components
 - Travis
+- Coveralls
 - ...
 
 ## Usage
